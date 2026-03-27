@@ -1,5 +1,5 @@
 ﻿Privacy Notice
-Last modified September 3, 2025
+Last modified March 30, 2026
 
 Collecting Personal Information
 
@@ -291,20 +291,10 @@ The sub-processors that Proctorio uses are listed below but Proctorio may update
 
 Required sub-processors for all services:
 
-Amazon Web Services
-Purpose: DNS Services
-Location: International
-Website: https://aws.amazon.com/
-
 Azure
 Purpose: Cloud Service Provider
 Location: International
 Website: https://azure.microsoft.com/
-
-Backblaze
-Purpose: Cloud Storage Services
-Location: USA and Europe
-Website: https://www.backblaze.com/
 
 Cloudflare
 Purpose: Cloud Service Provider
@@ -334,11 +324,6 @@ Olark
 Purpose: Chat support provider
 Location: USA
 Website: https://olark.com/
-
-Postmark
-Purpose: Transactional email support provider
-Location: USA
-Website: https://postmarkapp.com/
 
 Proctorio d.o.o
 Purpose: Support Services
